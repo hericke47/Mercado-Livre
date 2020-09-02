@@ -15,7 +15,7 @@ import {
   Actions,
   Button,
   Benefits,
-  ShieldIcon
+  ShieldIcon,
 } from './styles';
 
 const ProductAction: React.FC = () => {
