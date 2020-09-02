@@ -19,7 +19,7 @@
 
 <div>
   <a href="https://herickmercadolivreclone.netlify.app/" >
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcode.makery.ch%2Flibrary%2Fhtml-css%2Fpart2%2Fnetlify-logo.png&f=1&nofb=1">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcode.makery.ch%2Flibrary%2Fhtml-css%2Fpart2%2Fnetlify-logo.png&f=1&nofb=1" height="200" width="200">
   </a>
 </div>
 
